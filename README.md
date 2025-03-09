@@ -7,3 +7,6 @@
 ## Files
 - `z_g_spread_bond_calculator.xlsx`: Spreadsheet containing calculations for Z-Spread, G-Spread, and risk-free bond present values, along with visualizations.
 - `output.png`: Plot.
+
+## Screenshots
+![output](output.png)
